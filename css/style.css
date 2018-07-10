@@ -1,22 +1,25 @@
 @charset "utf-8";
 
 body {
+    margin: 0;
     font-family: "Noto Sans Japanese", sans-serif;
 }
 
-nav {
-    overflow: hidden;
-    background-color: rgb(114, 173, 134);
+.header-inner {
+    background: #bad7f5;
 }
 
-.nav-title {
-    float: left;
+.nav-inner {
+    color: #fff;
+    background: #0086f9;
 }
 
-.nav-social {
-    float: right;
+.main-inner {
+    background: #fffde3;
+
+    height: 400px;
 }
 
-.nav-social li {
-    display: inline;
+.footer-inner {
+    background: #bad7f5;
 }
