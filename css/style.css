@@ -71,8 +71,9 @@ main {
 }
 
 .date {
-    font-size: .9rem;
+    font-size: .8rem;
     padding: 2px;
+    color: gray;
 }
 
 .date i {
