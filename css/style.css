@@ -35,6 +35,10 @@ h2 {
     display: inline;
 }
 
+.social {
+    font-size: 1.5em;
+}
+
 section .container {
     display: flex;
     flex-flow: column;
@@ -53,8 +57,15 @@ section .container {
 }
 
 main {
-    padding: 20px 10px 20px 10px;
     background: #fffde3;
+}
+
+.item {
+    padding: 10px 0;
+}
+
+.title {
+    padding: 10px 0 0 0;
 }
 
 .tags ul {
